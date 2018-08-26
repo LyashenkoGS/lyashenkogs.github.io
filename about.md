@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+A Java Developer with open source and commercial experience, mostly Spring framework based web applications. Interested in distributed enterprise applications, cloud computing, security. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[lyashenkogs@gmail.com](mailto:lyashenkogs@gmail.com)
