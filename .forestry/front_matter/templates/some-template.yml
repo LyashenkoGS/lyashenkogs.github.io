@@ -3,3 +3,5 @@ label: Some template
 hide_body: false
 is_partial: false
 fields: []
+pages:
+- _posts/homeassistancesoverview2017.md
