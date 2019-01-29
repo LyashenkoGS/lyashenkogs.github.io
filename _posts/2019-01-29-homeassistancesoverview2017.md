@@ -1,9 +1,8 @@
 ---
-date: 2019-01-29 22:14:21 +0000
-
+layout: post
+title: Home assistances overview 2017
 ---
   
-**Home assistances overview 2017**
 
 I found a funny article in Twitter [https://thebolditalic.com/you-are-now-fully-optimized-716f4](https://thebolditalic.com/you-are-now-fully-optimized-716f4 "https://thebolditalic.com/you-are-now-fully-optimized-716f4")[…](https://thebolditalic.com/you-are-now-fully-optimized-716f482b17f5?fbclid=IwAR0CUrLYt_9wErlJerN5Qa1dBSy_-qb_bpi6-a37t2VrXknfxNKsSEO9SnQ) about IOT, Software engineers life and automation. Btw, see @lyashenkogs. So I was interested how it’s going with home assistances now.
 
