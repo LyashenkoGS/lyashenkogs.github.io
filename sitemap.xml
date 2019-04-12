@@ -44,10 +44,6 @@
   </url>
   
   <url>
-    <loc>https://localhost:1313/post/2014-3-3-hello-world/</loc>
-  </url>
-  
-  <url>
     <loc>https://localhost:1313/tags/</loc>
     <priority>0</priority>
   </url>

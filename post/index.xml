@@ -21,14 +21,5 @@
 Time to time I use Google assistance on my Xiomi Mi Max to translate something to Russian, check the weather, convert currency, look at nearest events in a calendar, build a direction on a map or just google for some technical or not very term.</description>
     </item>
     
-    <item>
-      <title>Services</title>
-      <link>https://localhost:1313/post/2014-3-3-hello-world/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://localhost:1313/post/2014-3-3-hello-world/</guid>
-      <description> Consulting. You want to create a project or faced some technical problems with an existing one. Mentorship. One to one session over Skype. Help to prepare for an interview, whiteboard session, etc.. Conducting interviews.  </description>
-    </item>
-    
   </channel>
 </rss>
