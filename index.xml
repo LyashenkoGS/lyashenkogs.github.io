@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Exploring the software world on Exploring the software world</title>
-    <link>https://localhost:1313/</link>
-    <description>Recent content in Exploring the software world on Exploring the software world</description>
+    <title>Hryhorii Liashenko on Hryhorii Liashenko</title>
+    <link>https://lyashenkogs.github.io/</link>
+    <description>Recent content in Hryhorii Liashenko on Hryhorii Liashenko</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Hryhorii Liashenko</copyright>
@@ -12,11 +12,11 @@
     
     <item>
       <title>Home assistances overview 2017</title>
-      <link>https://localhost:1313/post/2019-01-29-homeassistancesoverview2017/</link>
+      <link>https://lyashenkogs.github.io/post/2019-01-29-homeassistancesoverview2017/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/post/2019-01-29-homeassistancesoverview2017/</guid>
-      <description>&lt;p&gt;I found a funny article in Twitter &lt;a href=&#34;https://thebolditalic.com/you-are-now-fully-optimized-716f4&#34; title=&#34;https://thebolditalic.com/you-are-now-fully-optimized-716f4&#34;&gt;https://thebolditalic.com/you-are-now-fully-optimized-716f4&lt;/a&gt;&lt;a href=&#34;https://thebolditalic.com/you-are-now-fully-optimized-716f482b17f5?fbclid=IwAR0CUrLYt_9wErlJerN5Qa1dBSy_-qb_bpi6-a37t2VrXknfxNKsSEO9SnQ&#34;&gt;…&lt;/a&gt; about IOT, Software engineers life and automation. Btw, see @lyashenkogs. So I was interested how it’s going with home assistances now.&lt;/p&gt;
+      <guid>https://lyashenkogs.github.io/post/2019-01-29-homeassistancesoverview2017/</guid>
+      <description>&lt;p&gt;I found a funny article in Twitter &lt;a href=&#34;https://thebolditalic.com/you-are-now-fully-optimized-716f482b17f5&#34; title=&#34;https://thebolditalic.com/you-are-now-fully-optimized-716f482b17f5&#34;&gt;https://thebolditalic.com/you-are-now-fully-optimized-716f4&lt;/a&gt; about IOT, Software engineers life and automation. Btw, see @lyashenkogs. So I was interested how it’s going with home assistances now.&lt;/p&gt;
 
 &lt;p&gt;Time to time I use Google assistance on my Xiomi Mi Max to translate something to Russian, check the weather, convert currency, look at nearest events in a calendar, build a direction on a map or just google for some technical or not very term. &lt;br /&gt;
 The biggest cons - this doesn’t work from a locked screen on a smartphone, except you are Google Pixel owner ($649 for a basic version).&lt;/p&gt;
@@ -34,8 +34,9 @@ No screen -&amp;gt; no visual output or possibility to open a wiki article for e
 I didn’t use Echo but seems like it doesn’t work well with Google services out of the box. Developing Alexa skills involves AWS Lambda so I can get a vendor lock eventually. I’m sure there are workarounds, but I don’t see some very popular ones.&lt;br /&gt;
 A website when you can try Alexa online &lt;a href=&#34;https://echosim.io/&#34; title=&#34;https://echosim.io/&#34;&gt;https://echosim.io/&lt;/a&gt; didn’t work for mine. I wasn’t able even to trigger some basic functionality!&lt;/p&gt;
 
-&lt;p&gt;Siri&lt;br /&gt;
-Very limited. &lt;a href=&#34;https://9to5mac.com/&#34; title=&#34;https://9to5mac.com/&#34;&gt;https://9to5mac.com/&lt;/a&gt;&lt;a href=&#34;https://9to5mac.com/2016/06/14/how-siri-works-in-ios-10-for-third-party-apps-rich-integration-with-six-kinds-of-application/?fbclid=IwAR2owf457Q7QB3ZCZ0GHtl_Lpd8oQOfGbckP5DuVbWVc4NfqTS19kDqwZrQ&#34;&gt;…/how-siri-works-in-ios-10-for-third-p…/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Siri&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Very limited. &lt;a href=&#34;https://9to5mac.com/&#34; title=&#34;https://9to5mac.com/&#34;&gt;https://9to5mac.com/&lt;/a&gt;&lt;a href=&#34;https://9to5mac.com/2016/06/14/how-siri-works-in-ios-10-for-third-party-apps-rich-integration-with-six-kinds-of-application/?fbclid=IwAR2owf457Q7QB3ZCZ0GHtl_Lpd8oQOfGbckP5DuVbWVc4NfqTS19kDqwZrQ&#34;&gt;…/how-siri-works-in-ios-10-for-third-p…/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Ok Google on MacBook&lt;/strong&gt;&lt;br /&gt;
 Hopefully, I found a video with detailed instructions how to use OK Google from a MacBook using voice, and it worked for me. &lt;a href=&#34;https://www.youtube.com/watch?v=N7dYKFukPfo&#34; title=&#34;https://www.youtube.com/watch?v=N7dYKFukPfo&#34;&gt;https://www.youtube.com/watch?v=N7dYKFukPfo&lt;/a&gt;&lt;/p&gt;

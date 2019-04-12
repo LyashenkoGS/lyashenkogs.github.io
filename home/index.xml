@@ -1,43 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Exploring the software world</title>
-    <link>https://localhost:1313/home/</link>
-    <description>Recent content in Homes on Exploring the software world</description>
+    <title>Homes on Hryhorii Liashenko</title>
+    <link>https://lyashenkogs.github.io/home/</link>
+    <description>Recent content in Homes on Hryhorii Liashenko</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Hryhorii Liashenko</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://localhost:1313/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lyashenkogs.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://localhost:1313/home/about/</link>
+      <link>https://lyashenkogs.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/home/about/</guid>
-      <description> Hryhorii Liashenko A Software engineer with mostly Java background. Last time, building SaaS in cloud environments.
-My expertise areas:  Spring framework based web applications. Full development lifecycle. REST API design, documentation, testing. TDD, CI, CD using Jenkins. Performance testing (Jmeter). DevOps. Development, monitoring, deployment containerized applications in a Kubernetes cluster.  CV: here.
- My social education project. Peer Lab #Java. Livecoding. Reviews in facebook.  </description>
+      <guid>https://lyashenkogs.github.io/home/about/</guid>
+      <description>A Software engineer with mostly Java background. Last time, building SaaS in cloud environments. You can find my CV here
+Expertise areas:  Spring framework based web applications. Full development lifecycle. REST API design, documentation, testing. TDD, CI, CD using Jenkins. Performance testing (Jmeter). DevOps. Development, monitoring, deployment containerized applications in a Kubernetes cluster.  Services  Consulting. You want to create a project or faced some technical problems with an existing one.</description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>https://localhost:1313/home/posts/</link>
+      <link>https://lyashenkogs.github.io/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/home/posts/</guid>
+      <guid>https://lyashenkogs.github.io/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://localhost:1313/home/contact/</link>
+      <link>https://lyashenkogs.github.io/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/home/contact/</guid>
+      <guid>https://lyashenkogs.github.io/home/contact/</guid>
       <description></description>
     </item>
     
