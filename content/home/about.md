@@ -39,8 +39,7 @@ weight = 1
 
 +++
 
-# Who is Hryhorii Liashenko?    
-A Java Developer with open source and commercial experience, mostly Spring framework based web applications. Interested in distributed enterprise applications, cloud computing, security.
+A Software engineer with mostly Java background. Last time, building SaaS in cloud environments.  
 
 ## My expertise areas:
 
@@ -50,7 +49,7 @@ A Java Developer with open source and commercial experience, mostly Spring frame
 * Performance testing (Jmeter).
 * Devops. Development, monitoring, deployment containerized applications in a Kubernetes cluster.
 
-CV: [here](https://docs.google.com/document/d/1hqxy9tdmyYxsufKG0nBQHqVUERCgVsHXHEKvvb8Y0nA/edit?usp=sharing).
+You can find my CV here: [CV](https://docs.google.com/document/d/1hqxy9tdmyYxsufKG0nBQHqVUERCgVsHXHEKvvb8Y0nA/edit?usp=sharing).
 
 - [Reviews in facebook](https://www.facebook.com/KyivJavaCourses/).
 - [My social education project. Peer Lab #Java](https://www.facebook.com/groups/PeerLabJava/).

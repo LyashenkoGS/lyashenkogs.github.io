@@ -1,11 +1,11 @@
 baseurl = "https://lyashenkogs.github.io/"
-title = "Exploring the software world"
+title = ""
 copyright = "&copy; 2019 Hryhorii Liashenko"
 languageCode = "en-us"
 theme = "academic"
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = "hryhoriiliashenko"
+disqusShortname = "lyashenkogs-github-io"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-24188910-1"
