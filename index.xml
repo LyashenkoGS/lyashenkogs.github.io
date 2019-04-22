@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Exploring the software world on Exploring the software world</title>
-    <link>https://localhost:1313/</link>
+    <link>https://lyashenkogs.github.io/</link>
     <description>Recent content in Exploring the software world on Exploring the software world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,11 +11,11 @@
     
     <item>
       <title>Google hash code 2019 - Just for fun</title>
-      <link>https://localhost:1313/post/2019-03-01-googlehashcode2019/</link>
+      <link>https://lyashenkogs.github.io/post/2019-03-01-googlehashcode2019/</link>
       <pubDate>Fri, 01 Mar 2019 12:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/post/2019-03-01-googlehashcode2019/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://twitter.com/mxcl/status/608682016205344768?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed&amp;amp;ref_url=https%3A%2F%2Fmedia.licdn.com%2Fembeds%2Fmedia.html%3Fsrc%3Dhttps%253A%252F%252Ftwitter.com%252Fmxcl%252Fstatus%252F608682016205344768%26url%3Dhttps%253A%252F%252Ftwitter.com%252Fmxcl%252Fstatus%252F608682016205344768%26type%3Dtext%252Fhtml%26schema%3Dtwitter&#34;&gt;&lt;img src=&#34;https://localhost:1313/img/inner_hashcode1.png&#34; alt=&#34;twitter img&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+      <guid>https://lyashenkogs.github.io/post/2019-03-01-googlehashcode2019/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://twitter.com/mxcl/status/608682016205344768?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed&amp;amp;ref_url=https%3A%2F%2Fmedia.licdn.com%2Fembeds%2Fmedia.html%3Fsrc%3Dhttps%253A%252F%252Ftwitter.com%252Fmxcl%252Fstatus%252F608682016205344768%26url%3Dhttps%253A%252F%252Ftwitter.com%252Fmxcl%252Fstatus%252F608682016205344768%26type%3Dtext%252Fhtml%26schema%3Dtwitter&#34;&gt;&lt;img src=&#34;https://lyashenkogs.github.io/img/inner_hashcode1.png&#34; alt=&#34;twitter img&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Пост рассчитан на новичков и программистов с промышленным опытом но без опыта участия в алгоритмических соревнованиях  и описывает опыт участия в Google hash code 2019.&lt;/p&gt;
 
@@ -71,10 +71,10 @@
     
     <item>
       <title>Удобство разработки на С&#43;&#43; vs Java</title>
-      <link>https://localhost:1313/post/2019-2-23-java-vs-c&#43;&#43;2019/</link>
+      <link>https://lyashenkogs.github.io/post/2019-2-23-java-vs-c&#43;&#43;2019/</link>
       <pubDate>Sat, 23 Feb 2019 12:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/post/2019-2-23-java-vs-c&#43;&#43;2019/</guid>
+      <guid>https://lyashenkogs.github.io/post/2019-2-23-java-vs-c&#43;&#43;2019/</guid>
       <description>&lt;p&gt;Для общего развития и чтоб лучше понимать как работать с памятью решил попробовать писать на C++ при наличии опыта работы на Java и немного на python. Ниже сравню удобство разработки при написания простых алгоритмических задач на Java и С++.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;IDE&lt;/strong&gt;&lt;br /&gt;
@@ -111,10 +111,10 @@ I think there is no proper desktop home assistant for mere mortals yet. All mark
     
     <item>
       <title>Home assistances overview 2017</title>
-      <link>https://localhost:1313/post/2019-01-29-homeassistantsoverview2017/</link>
+      <link>https://lyashenkogs.github.io/post/2019-01-29-homeassistantsoverview2017/</link>
       <pubDate>Sun, 02 Jul 2017 12:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/post/2019-01-29-homeassistantsoverview2017/</guid>
+      <guid>https://lyashenkogs.github.io/post/2019-01-29-homeassistantsoverview2017/</guid>
       <description>&lt;p&gt;I found a funny article in Twitter &lt;a href=&#34;https://thebolditalic.com/you-are-now-fully-optimized-716f4&#34; title=&#34;https://thebolditalic.com/you-are-now-fully-optimized-716f4&#34;&gt;https://thebolditalic.com/you-are-now-fully-optimized-716f4&lt;/a&gt;&lt;a href=&#34;https://thebolditalic.com/you-are-now-fully-optimized-716f482b17f5?fbclid=IwAR0CUrLYt_9wErlJerN5Qa1dBSy_-qb_bpi6-a37t2VrXknfxNKsSEO9SnQ&#34;&gt;…&lt;/a&gt; about IOT, Software engineers life and automation. Btw, see @lyashenkogs. So I was interested how it’s going with home assistances now.&lt;/p&gt;
 
 &lt;p&gt;Time to time I use Google assistance on my Xiomi Mi Max to translate something to Russian, check the weather, convert currency, look at nearest events in a calendar, build a direction on a map or just google for some technical or not very term. &lt;br /&gt;
@@ -160,10 +160,10 @@ I think there is no proper desktop home assistant for mere mortals yet. All mark
     
     <item>
       <title>Коротко про Arduino</title>
-      <link>https://localhost:1313/post/2017-06-26-%D0%BA%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%BE-%D0%BF%D1%80%D0%BE-%D0%B0%D1%80%D0%B4%D1%83%D0%B8%D0%BD%D0%BE/</link>
+      <link>https://lyashenkogs.github.io/post/2017-06-26-%D0%BA%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%BE-%D0%BF%D1%80%D0%BE-%D0%B0%D1%80%D0%B4%D1%83%D0%B8%D0%BD%D0%BE/</link>
       <pubDate>Mon, 26 Jun 2017 12:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/post/2017-06-26-%D0%BA%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%BE-%D0%BF%D1%80%D0%BE-%D0%B0%D1%80%D0%B4%D1%83%D0%B8%D0%BD%D0%BE/</guid>
+      <guid>https://lyashenkogs.github.io/post/2017-06-26-%D0%BA%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%BE-%D0%BF%D1%80%D0%BE-%D0%B0%D1%80%D0%B4%D1%83%D0%B8%D0%BD%D0%BE/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;Легко достать детали. Брал на &lt;a href=&#34;https://arduino-ua.com/&#34;&gt;https://arduino-ua.com/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Wifi модулей для 5Ghz нету. Те которые есть на 2.4Ghz в большинстве случаев надо подключать через конвертер уровней.&lt;/li&gt;
@@ -176,7 +176,7 @@ I think there is no proper desktop home assistant for mere mortals yet. All mark
 Запилить что-то примитивное можно. Дальше требуються хорошие знания электроники. Мне удалось подключить датчик движения и светодиод, Wifi модуль не заработал.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://localhost:1313/img/inner_arduino_1.jpg&#34; alt=&#34;img&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lyashenkogs.github.io/img/inner_arduino_1.jpg&#34; alt=&#34;img&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

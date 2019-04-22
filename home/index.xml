@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Exploring the software world</title>
-    <link>https://localhost:1313/home/</link>
+    <link>https://lyashenkogs.github.io/home/</link>
     <description>Recent content in Homes on Exploring the software world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Hryhorii Liashenko</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://localhost:1313/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lyashenkogs.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://localhost:1313/home/about/</link>
+      <link>https://lyashenkogs.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/home/about/</guid>
+      <guid>https://lyashenkogs.github.io/home/about/</guid>
       <description>Who is Hryhorii Liashenko? A Java Developer with open source and commercial experience, mostly Spring framework based web applications. Interested in distributed enterprise applications, cloud computing, security.
 My expertise areas:  Spring framework based web applications. Full development lifecycle. REST API design, documentation, testing. TDD, CI, CD using Jenkins. Performance testing (Jmeter). Devops. Development, monitoring, deployment containerized applications in a Kubernetes cluster.  CV: here.
  Reviews in facebook. My social education project.</description>
@@ -25,19 +25,19 @@ My expertise areas:  Spring framework based web applications. Full development l
     
     <item>
       <title>Recent Posts</title>
-      <link>https://localhost:1313/home/posts/</link>
+      <link>https://lyashenkogs.github.io/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/home/posts/</guid>
+      <guid>https://lyashenkogs.github.io/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://localhost:1313/home/contact/</link>
+      <link>https://lyashenkogs.github.io/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/home/contact/</guid>
+      <guid>https://lyashenkogs.github.io/home/contact/</guid>
       <description></description>
     </item>
     
