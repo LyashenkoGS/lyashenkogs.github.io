@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exploring the software world on Exploring the software world</title>
+    <link>https://localhost:1313/</link>
+    <description>Recent content in Exploring the software world on Exploring the software world</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Hryhorii Liashenko</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Home assistances overview 2017</title>
+      <link>https://localhost:1313/post/2019-01-29-homeassistancesoverview2017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/post/2019-01-29-homeassistancesoverview2017/</guid>
+      <description>&lt;p&gt;I found a funny article in Twitter &lt;a href=&#34;https://thebolditalic.com/you-are-now-fully-optimized-716f4&#34; title=&#34;https://thebolditalic.com/you-are-now-fully-optimized-716f4&#34;&gt;https://thebolditalic.com/you-are-now-fully-optimized-716f4&lt;/a&gt;&lt;a href=&#34;https://thebolditalic.com/you-are-now-fully-optimized-716f482b17f5?fbclid=IwAR0CUrLYt_9wErlJerN5Qa1dBSy_-qb_bpi6-a37t2VrXknfxNKsSEO9SnQ&#34;&gt;…&lt;/a&gt; about IOT, Software engineers life and automation. Btw, see @lyashenkogs. So I was interested how it’s going with home assistances now.&lt;/p&gt;
+
+&lt;p&gt;Time to time I use Google assistance on my Xiomi Mi Max to translate something to Russian, check the weather, convert currency, look at nearest events in a calendar, build a direction on a map or just google for some technical or not very term. &lt;br /&gt;
+The biggest cons - this doesn’t work from a locked screen on a smartphone, except you are Google Pixel owner ($649 for a basic version).&lt;/p&gt;
+
+&lt;p&gt;So for me, it will be good to have a home assistance like GA but on a MacBook.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why I don’t consider Google Home as an option.&lt;/strong&gt;&lt;br /&gt;
+No screen -&amp;gt; no visual output or possibility to open a wiki article for example&lt;br /&gt;
+1. No keyboard in case if need to input a request manually&lt;br /&gt;
+2. A highly proprietary system with no clean way to integrate with&lt;br /&gt;
+3. There is no SDK for Google Home as a device. &lt;br /&gt;
+4. When developing custom action you are locked with google infrastructure and firebase. &lt;a href=&#34;https://developers.google.com/actions/get-started/&#34; title=&#34;https://developers.google.com/actions/get-started/&#34;&gt;https://developers.google.com/actions/get-started/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amazon Echo&lt;/strong&gt;&lt;br /&gt;
+I didn’t use Echo but seems like it doesn’t work well with Google services out of the box. Developing Alexa skills involves AWS Lambda so I can get a vendor lock eventually. I’m sure there are workarounds, but I don’t see some very popular ones.&lt;br /&gt;
+A website when you can try Alexa online &lt;a href=&#34;https://echosim.io/&#34; title=&#34;https://echosim.io/&#34;&gt;https://echosim.io/&lt;/a&gt; didn’t work for mine. I wasn’t able even to trigger some basic functionality!&lt;/p&gt;
+
+&lt;p&gt;Siri&lt;br /&gt;
+Very limited. &lt;a href=&#34;https://9to5mac.com/&#34; title=&#34;https://9to5mac.com/&#34;&gt;https://9to5mac.com/&lt;/a&gt;&lt;a href=&#34;https://9to5mac.com/2016/06/14/how-siri-works-in-ios-10-for-third-party-apps-rich-integration-with-six-kinds-of-application/?fbclid=IwAR2owf457Q7QB3ZCZ0GHtl_Lpd8oQOfGbckP5DuVbWVc4NfqTS19kDqwZrQ&#34;&gt;…/how-siri-works-in-ios-10-for-third-p…/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ok Google on MacBook&lt;/strong&gt;&lt;br /&gt;
+Hopefully, I found a video with detailed instructions how to use OK Google from a MacBook using voice, and it worked for me. &lt;a href=&#34;https://www.youtube.com/watch?v=N7dYKFukPfo&#34; title=&#34;https://www.youtube.com/watch?v=N7dYKFukPfo&#34;&gt;https://www.youtube.com/watch?v=N7dYKFukPfo&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;What it does and doesn’t &lt;br /&gt;
+It does everything except triggering actions like playing music, adding events to a calendar or reminders. In this case, you need GA which doesn&amp;rsquo;t have an official desktop version. Only an API or an SDK&lt;a href=&#34;https://developers.google.com/assistant/sdk/overview&#34; title=&#34;https://developers.google.com/assistant/sdk/overview&#34;&gt;https://developers.google.com/assistant/sdk/overview&lt;/a&gt; which will eventually look like a console app &lt;a href=&#34;https://www.youtube.com/watch?v=UINBWxs6SeI&#34; title=&#34;https://www.youtube.com/watch?v=UINBWxs6SeI&#34;&gt;https://www.youtube.com/watch?v=UINBWxs6SeI&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;MacAssistant&lt;/strong&gt;&lt;br /&gt;
+Technically, it&amp;rsquo;s a Swift based wrapper, suspiciously similar to Siri, with very limited functions and bugs. Also, it requires macOS Sierra. I think the idea is great, but implementation has a lot of work to do yet. &lt;br /&gt;
+&lt;a href=&#34;https://github.com/vanshg/MacAssistant&#34; title=&#34;https://github.com/vanshg/MacAssistant&#34;&gt;https://github.com/vanshg/MacAssistant&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Open source solutions&lt;/strong&gt;&lt;br /&gt;
+I didn’t test it yet. And it’s written in javascript. &lt;a href=&#34;https://www.youtube.com/watch?v=XEnu-aotG2s&#34; title=&#34;https://www.youtube.com/watch?v=XEnu-aotG2s&#34;&gt;https://www.youtube.com/watch?v=XEnu-aotG2s&lt;/a&gt;. &lt;a href=&#34;https://github.com/TheAdrianProject/AdrianSmartAssistant&#34; title=&#34;https://github.com/TheAdrianProject/AdrianSmartAssistant&#34;&gt;https://github.com/TheAdrianProject/AdrianSmartAssistant&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Even Mark Zuckerberg build own home assistance. Yeh yeh, without any other engineers) and surprisingly there is no open source code) &lt;a href=&#34;https://www.youtube.com/watch?v=vvimBPJ3XGQ&#34; title=&#34;https://www.youtube.com/watch?v=vvimBPJ3XGQ&#34;&gt;https://www.youtube.com/watch?v=vvimBPJ3XGQ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;br /&gt;
+I think there is no proper desktop home assistant for mere mortals yet. All market solutions seem beta versions and are very vendor specific. Personally, I will wait till something proper appeared at market and use GA as it is now from a smartphone and a MacBook.&lt;/p&gt;
+
+&lt;p&gt;p.s I will appreciate any kind of constructive critics about the article or yours ideas about home assistances in practice.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>https://localhost:1313/post/2014-3-3-hello-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/post/2014-3-3-hello-world/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Consulting. You want to create a project or faced some technical problems with an existing one.&lt;/li&gt;
+&lt;li&gt;Mentorship. One to one session over Skype. Help to prepare for an interview, whiteboard session, etc..&lt;/li&gt;
+&lt;li&gt;Conducting interviews.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Удобство разработки на C&#43;&#43; vs Java</title>
+      <link>https://localhost:1313/post/2019-2-23-java-vs-c&#43;&#43;2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/post/2019-2-23-java-vs-c&#43;&#43;2019/</guid>
+      <description>&lt;p&gt;Для общего развития и чтоб лучше понимать как работать с памятью решил попробовать писать на C++ при наличии опыта работы на Java и немного на python. Ниже сравню удобство разработки при написания простых алгоритмических задач на Java и С++.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;IDE&lt;/strong&gt;&lt;br /&gt;
+Java - IntellijIdea.&lt;/p&gt;
+
+&lt;p&gt;C++ - CLion&lt;/p&gt;
+
+&lt;p&gt;Оба от JetBrains. Фич по рефакторингу и подсказкам в Clion на порядок меньше. Дольше компилирует чем аналогичный объем кода на Java. Говорят, трушные разработчики настраивают vim под себя или используют QT Creator.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Подключение библиотек&lt;/strong&gt;&lt;br /&gt;
+Java - maven + maven central. Не буду расписывать, тут все просто.&lt;/p&gt;
+
+&lt;p&gt;С++ - Cmake. Надо качать библиотеки руками или через пакетный менеджер. Удобства в виде архетипов как в maven и стандартной структуры проекта - нет. Мне нужна была библиотека для тестирования. В итоге использовал проект &lt;a href=&#34;https://github.com/bast/gtest-demo&#34;&gt;https://github.com/bast/gtest-demo&lt;/a&gt;. Реализовано скачивание gtest с гита и компиляция(привет golang).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Разработка&lt;/strong&gt;&lt;br /&gt;
+Java- у Вас есть интерактивная документация на классы и методы стандартных библиотек в IDE.&lt;/p&gt;
+
+&lt;p&gt;C++ - В стандартных библиотеках нет документации в коде. Понять функционал читая исходники - довольно проблемно. Для того чтоб посмотреть как создать динамический список(vector) и добавить в него элементы пришлось читать &lt;a href=&#34;https://en.cppreference.com/w/cpp/container/vector&#34;&gt;https://en.cppreference.com/w/cpp/container/vector&lt;/a&gt;. Тикет на интерактивную документацию в Clion и вариант с скачиванием стандартных библиотек с документацией &lt;a href=&#34;https://stackoverflow.com/a/50174559/6793472&#34;&gt;https://stackoverflow.com/a/50174559/6793472&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Профилирование&lt;/strong&gt;&lt;br /&gt;
+Java - visualVm&lt;/p&gt;
+
+&lt;p&gt;C++ - valgrind. На macos так и не удалось поставить &lt;a href=&#34;https://stackoverflow.com/questions/52732036/how-to-install-valgrind-on-macos-mojave10-14-with-homebrew&#34;&gt;https://stackoverflow.com/questions/52732036/how-to-install-valgrind-on-macos-mojave10-14-with-homebrew&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Итого&lt;/strong&gt;&lt;br /&gt;
+Как первый язык С++ я бы не рекомендовал. Считаю что писать код без жестких нефункциональных требование проще на Java.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;br /&gt;
+I think there is no proper desktop home assistant for mere mortals yet. All market solutions seem beta versions and are very vendor specific. Personally, I will wait till something proper appeared at market and use GA as it is now from a smartphone and a MacBook.&lt;/p&gt;
+
+&lt;p&gt;p.s I will appreciate any kind of constructive critics about the article or yours ideas about home assistances in practice.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

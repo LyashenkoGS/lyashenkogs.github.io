@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Exploring the software world</title>
+    <link>https://localhost:1313/post/</link>
+    <description>Recent content in Posts on Exploring the software world</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Hryhorii Liashenko</copyright>
+    
+	<atom:link href="https://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Home assistances overview 2017</title>
+      <link>https://localhost:1313/post/2019-01-29-homeassistancesoverview2017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/post/2019-01-29-homeassistancesoverview2017/</guid>
+      <description>I found a funny article in Twitter https://thebolditalic.com/you-are-now-fully-optimized-716f4… about IOT, Software engineers life and automation. Btw, see @lyashenkogs. So I was interested how it’s going with home assistances now.
+Time to time I use Google assistance on my Xiomi Mi Max to translate something to Russian, check the weather, convert currency, look at nearest events in a calendar, build a direction on a map or just google for some technical or not very term.</description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>https://localhost:1313/post/2014-3-3-hello-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/post/2014-3-3-hello-world/</guid>
+      <description> Consulting. You want to create a project or faced some technical problems with an existing one. Mentorship. One to one session over Skype. Help to prepare for an interview, whiteboard session, etc.. Conducting interviews.  </description>
+    </item>
+    
+    <item>
+      <title>Удобство разработки на C&#43;&#43; vs Java</title>
+      <link>https://localhost:1313/post/2019-2-23-java-vs-c&#43;&#43;2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/post/2019-2-23-java-vs-c&#43;&#43;2019/</guid>
+      <description>Для общего развития и чтоб лучше понимать как работать с памятью решил попробовать писать на C++ при наличии опыта работы на Java и немного на python. Ниже сравню удобство разработки при написания простых алгоритмических задач на Java и С++.
+IDE
+Java - IntellijIdea.
+C++ - CLion
+Оба от JetBrains. Фич по рефакторингу и подсказкам в Clion на порядок меньше. Дольше компилирует чем аналогичный объем кода на Java. Говорят, трушные разработчики настраивают vim под себя или используют QT Creator.</description>
+    </item>
+    
+  </channel>
+</rss>
