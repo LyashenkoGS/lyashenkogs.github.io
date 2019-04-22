@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Exploring the software world on Exploring the software world</title>
@@ -7,15 +6,115 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Hryhorii Liashenko</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2019 12:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Home assistances overview 2017</title>
-      <link>https://localhost:1313/post/2019-01-29-homeassistancesoverview2017/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Google hash code 2019 - Just for fun</title>
+      <link>https://localhost:1313/post/2019-03-01-googlehashcode2019/</link>
+      <pubDate>Fri, 01 Mar 2019 12:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/post/2019-01-29-homeassistancesoverview2017/</guid>
+      <guid>https://localhost:1313/post/2019-03-01-googlehashcode2019/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://twitter.com/mxcl/status/608682016205344768?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed&amp;amp;ref_url=https%3A%2F%2Fmedia.licdn.com%2Fembeds%2Fmedia.html%3Fsrc%3Dhttps%253A%252F%252Ftwitter.com%252Fmxcl%252Fstatus%252F608682016205344768%26url%3Dhttps%253A%252F%252Ftwitter.com%252Fmxcl%252Fstatus%252F608682016205344768%26type%3Dtext%252Fhtml%26schema%3Dtwitter&#34;&gt;&lt;img src=&#34;https://localhost:1313/img/inner_hashcode1.png&#34; alt=&#34;twitter img&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Пост рассчитан на новичков и программистов с промышленным опытом но без опыта участия в алгоритмических соревнованиях  и описывает опыт участия в Google hash code 2019.&lt;/p&gt;
+
+&lt;p&gt;Девизом участия в GHC в этом году стало “Just for fun” по ряду причин:&lt;/p&gt;
+
+&lt;p&gt;Алгоритмы и структуры данных не являются моей основной специализацией
+Призовых мест без основательной подготовки тут не получить. Как выглядит человек с основательной подготовкой &lt;a href=&#34;https://www.youtube.com/watch?v=kMDSltQN0MY&#34;&gt;https://www.youtube.com/watch?v=kMDSltQN0MY&lt;/a&gt;
+Я простудился и вообще официально на больничном&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Результаты&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;No alt text provided for this image&lt;/p&gt;
+
+&lt;p&gt;По хабу:       17 из 32&lt;/p&gt;
+
+&lt;p&gt;По Украине: 192 из 385&lt;/p&gt;
+
+&lt;p&gt;Глобально:   3057 из 6671&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Команда&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Выступали в 2м. &lt;a href=&#34;https://www.linkedin.com/in/gleb-shvydkov-7b3a19161/&#34;&gt;https://www.linkedin.com/in/gleb-shvydkov-7b3a19161/&lt;/a&gt; и Я. Особо не готовились кроме решения задач на hackerRank в свободное время.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Место проведения&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Особенность GHC это социальная направленность. Компании и коворкинги предоставляют место для проведения соревнований - хабы, но можно и писать из дома. Как показывает практика в хабе веселее. 2й раз участвовал из &lt;a href=&#34;https://www.facebook.com/TseHUB/&#34;&gt;https://www.facebook.com/TseHUB/&lt;/a&gt; . Подал заявку поздно и нам выдали место за барной стойкой) Когда одна из команд свалила - пересели за нормальный стол&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Соревнования&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Прочитать и обсудить задание&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Парсинг входных данных. Сделать из примера объекты и конвертировать в выходной формат &lt;a href=&#34;https://github.com/LyashenkoGS/googleHashCode2019/commit/32adf2adb427e51fe77692b7d9b5e67c60422442&#34;&gt;https://github.com/LyashenkoGS/googleHashCode2019/commit/32adf2adb427e51fe77692b7d9b5e67c60422442&lt;/a&gt; - 45 мин (с учетом прочитать и понять задание)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Простейший брутфорс алгоритм &lt;a href=&#34;https://github.com/LyashenkoGS/googleHashCode2019/commit/04458d64632f6ce21f993d8b752cb01c7c81c316&#34;&gt;https://github.com/LyashenkoGS/googleHashCode2019/commit/04458d64632f6ce21f993d8b752cb01c7c81c316&lt;/a&gt; - 30 мин&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Подсчет очков(чтоб не отсылать каждый раз ответ на сервера гугла, ждать, сравнивать с прошлыми очками) &lt;a href=&#34;https://github.com/LyashenkoGS/googleHashCode2019/commit/93da1742d0eff1e7038f2b0560ade06bc741bb08&#34;&gt;https://github.com/LyashenkoGS/googleHashCode2019/commit/93da1742d0eff1e7038f2b0560ade06bc741bb08&lt;/a&gt; - 70 мин (тут потеряли много на суету и попытку делать параллельно)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Оптимизировать алгоритм - не успели. Потрачено - 60 мин. Отлавливали баги в процессе реализации.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Первые 4 пунктов плохо распараллеливаются между 2мя людьми. Поэтому писали по очереди в духе парного программирования. Иногда все таки делали параллельно и скидывали куски кода по Skype.&lt;/p&gt;
+
+&lt;p&gt;Где считали рациональным - добавляли тесты. Примерно каждый час был перерыв на 5-10 минут.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Оптимизация решения&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Задача напоминает &lt;a href=&#34;https://en.wikipedia.org/wiki/Knapsack_problem&#34;&gt;https://en.wikipedia.org/wiki/Knapsack_problem&lt;/a&gt;. Идея была в том чтоб после реализации брутфорса добавить подбор оптимального следующего слайда из допустим 10 следующих фотографий используя функцию скоринга.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Удобство разработки на С&#43;&#43; vs Java</title>
+      <link>https://localhost:1313/post/2019-2-23-java-vs-c&#43;&#43;2019/</link>
+      <pubDate>Sat, 23 Feb 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/post/2019-2-23-java-vs-c&#43;&#43;2019/</guid>
+      <description>&lt;p&gt;Для общего развития и чтоб лучше понимать как работать с памятью решил попробовать писать на C++ при наличии опыта работы на Java и немного на python. Ниже сравню удобство разработки при написания простых алгоритмических задач на Java и С++.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;IDE&lt;/strong&gt;&lt;br /&gt;
+Java - IntellijIdea.&lt;/p&gt;
+
+&lt;p&gt;C++ - CLion&lt;/p&gt;
+
+&lt;p&gt;Оба от JetBrains. Фич по рефакторингу и подсказкам в Clion на порядок меньше. Дольше компилирует чем аналогичный объем кода на Java. Говорят, трушные разработчики настраивают vim под себя или используют QT Creator.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Подключение библиотек&lt;/strong&gt;&lt;br /&gt;
+Java - maven + maven central. Не буду расписывать, тут все просто.&lt;/p&gt;
+
+&lt;p&gt;С++ - Cmake. Надо качать библиотеки руками или через пакетный менеджер. Удобства в виде архетипов как в maven и стандартной структуры проекта - нет. Мне нужна была библиотека для тестирования. В итоге использовал проект &lt;a href=&#34;https://github.com/bast/gtest-demo&#34;&gt;https://github.com/bast/gtest-demo&lt;/a&gt;. Реализовано скачивание gtest с гита и компиляция(привет golang).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Разработка&lt;/strong&gt;&lt;br /&gt;
+Java- у Вас есть интерактивная документация на классы и методы стандартных библиотек в IDE.&lt;/p&gt;
+
+&lt;p&gt;C++ - В стандартных библиотеках нет документации в коде. Понять функционал читая исходники - довольно проблемно. Для того чтоб посмотреть как создать динамический список(vector) и добавить в него элементы пришлось читать &lt;a href=&#34;https://en.cppreference.com/w/cpp/container/vector&#34;&gt;https://en.cppreference.com/w/cpp/container/vector&lt;/a&gt;. Тикет на интерактивную документацию в Clion и вариант с скачиванием стандартных библиотек с документацией &lt;a href=&#34;https://stackoverflow.com/a/50174559/6793472&#34;&gt;https://stackoverflow.com/a/50174559/6793472&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Профилирование&lt;/strong&gt;&lt;br /&gt;
+Java - visualVm&lt;/p&gt;
+
+&lt;p&gt;C++ - valgrind. На macos так и не удалось поставить &lt;a href=&#34;https://stackoverflow.com/questions/52732036/how-to-install-valgrind-on-macos-mojave10-14-with-homebrew&#34;&gt;https://stackoverflow.com/questions/52732036/how-to-install-valgrind-on-macos-mojave10-14-with-homebrew&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Итого&lt;/strong&gt;&lt;br /&gt;
+Как первый язык С++ я бы не рекомендовал. Считаю что писать код без жестких нефункциональных требование проще на Java.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;br /&gt;
+I think there is no proper desktop home assistant for mere mortals yet. All market solutions seem beta versions and are very vendor specific. Personally, I will wait till something proper appeared at market and use GA as it is now from a smartphone and a MacBook.&lt;/p&gt;
+
+&lt;p&gt;p.s I will appreciate any kind of constructive critics about the article or yours ideas about home assistances in practice.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Home assistances overview 2017</title>
+      <link>https://localhost:1313/post/2019-01-29-homeassistantsoverview2017/</link>
+      <pubDate>Sun, 02 Jul 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/post/2019-01-29-homeassistantsoverview2017/</guid>
       <description>&lt;p&gt;I found a funny article in Twitter &lt;a href=&#34;https://thebolditalic.com/you-are-now-fully-optimized-716f4&#34; title=&#34;https://thebolditalic.com/you-are-now-fully-optimized-716f4&#34;&gt;https://thebolditalic.com/you-are-now-fully-optimized-716f4&lt;/a&gt;&lt;a href=&#34;https://thebolditalic.com/you-are-now-fully-optimized-716f482b17f5?fbclid=IwAR0CUrLYt_9wErlJerN5Qa1dBSy_-qb_bpi6-a37t2VrXknfxNKsSEO9SnQ&#34;&gt;…&lt;/a&gt; about IOT, Software engineers life and automation. Btw, see @lyashenkogs. So I was interested how it’s going with home assistances now.&lt;/p&gt;
 
 &lt;p&gt;Time to time I use Google assistance on my Xiomi Mi Max to translate something to Russian, check the weather, convert currency, look at nearest events in a calendar, build a direction on a map or just google for some technical or not very term. &lt;br /&gt;
@@ -60,56 +159,24 @@ I think there is no proper desktop home assistant for mere mortals yet. All mark
     </item>
     
     <item>
-      <title>Services</title>
-      <link>https://localhost:1313/post/2014-3-3-hello-world/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Коротко про Arduino</title>
+      <link>https://localhost:1313/post/2017-06-26-%D0%BA%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%BE-%D0%BF%D1%80%D0%BE-%D0%B0%D1%80%D0%B4%D1%83%D0%B8%D0%BD%D0%BE/</link>
+      <pubDate>Mon, 26 Jun 2017 12:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/post/2014-3-3-hello-world/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Consulting. You want to create a project or faced some technical problems with an existing one.&lt;/li&gt;
-&lt;li&gt;Mentorship. One to one session over Skype. Help to prepare for an interview, whiteboard session, etc..&lt;/li&gt;
-&lt;li&gt;Conducting interviews.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Удобство разработки на C&#43;&#43; vs Java</title>
-      <link>https://localhost:1313/post/2019-2-23-java-vs-c&#43;&#43;2019/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://localhost:1313/post/2019-2-23-java-vs-c&#43;&#43;2019/</guid>
-      <description>&lt;p&gt;Для общего развития и чтоб лучше понимать как работать с памятью решил попробовать писать на C++ при наличии опыта работы на Java и немного на python. Ниже сравню удобство разработки при написания простых алгоритмических задач на Java и С++.&lt;/p&gt;
+      <guid>https://localhost:1313/post/2017-06-26-%D0%BA%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%BE-%D0%BF%D1%80%D0%BE-%D0%B0%D1%80%D0%B4%D1%83%D0%B8%D0%BD%D0%BE/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Легко достать детали. Брал на &lt;a href=&#34;https://arduino-ua.com/&#34;&gt;https://arduino-ua.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Wifi модулей для 5Ghz нету. Те которые есть на 2.4Ghz в большинстве случаев надо подключать через конвертер уровней.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;community support&amp;rdquo; весьма сомнителено &lt;a href=&#34;https://arduino.stackexchange.com/…/39659/wi-fi-module-5-ghz&#34;&gt;https://arduino.stackexchange.com/…/39659/wi-fi-module-5-ghz&lt;/a&gt; .&lt;/li&gt;
+&lt;li&gt;Хуевый тулинг (нормальной IDE типа IntelliJ нету), десктопная Arduino IDE глючит. Более-менее работает браузерная версия. Настроить Clion - целый мануал, Arduino plugin на Mac не работает.&lt;/li&gt;
+&lt;li&gt;Куча мануалов от школьников соответствующего качества.&lt;/li&gt;
+&lt;li&gt;Китайские версии могут значительно отличаться. Пример &lt;a href=&#34;https://arduino-ua.com/prod382-Arduino_Micro&#34;&gt;https://arduino-ua.com/prod382-Arduino_Micro&lt;/a&gt;
+и &lt;a href=&#34;https://arduino-ua.com/prod661-Arduino_Pro_Micro&#34;&gt;https://arduino-ua.com/prod661-Arduino_Pro_Micro&lt;/a&gt;
+имеют разную распиновку. Последнего нет из коробки в Fritzing. Мануалов на него тоже меньше.
+Запилить что-то примитивное можно. Дальше требуються хорошие знания электроники. Мне удалось подключить датчик движения и светодиод, Wifi модуль не заработал.&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;&lt;strong&gt;IDE&lt;/strong&gt;&lt;br /&gt;
-Java - IntellijIdea.&lt;/p&gt;
-
-&lt;p&gt;C++ - CLion&lt;/p&gt;
-
-&lt;p&gt;Оба от JetBrains. Фич по рефакторингу и подсказкам в Clion на порядок меньше. Дольше компилирует чем аналогичный объем кода на Java. Говорят, трушные разработчики настраивают vim под себя или используют QT Creator.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Подключение библиотек&lt;/strong&gt;&lt;br /&gt;
-Java - maven + maven central. Не буду расписывать, тут все просто.&lt;/p&gt;
-
-&lt;p&gt;С++ - Cmake. Надо качать библиотеки руками или через пакетный менеджер. Удобства в виде архетипов как в maven и стандартной структуры проекта - нет. Мне нужна была библиотека для тестирования. В итоге использовал проект &lt;a href=&#34;https://github.com/bast/gtest-demo&#34;&gt;https://github.com/bast/gtest-demo&lt;/a&gt;. Реализовано скачивание gtest с гита и компиляция(привет golang).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Разработка&lt;/strong&gt;&lt;br /&gt;
-Java- у Вас есть интерактивная документация на классы и методы стандартных библиотек в IDE.&lt;/p&gt;
-
-&lt;p&gt;C++ - В стандартных библиотеках нет документации в коде. Понять функционал читая исходники - довольно проблемно. Для того чтоб посмотреть как создать динамический список(vector) и добавить в него элементы пришлось читать &lt;a href=&#34;https://en.cppreference.com/w/cpp/container/vector&#34;&gt;https://en.cppreference.com/w/cpp/container/vector&lt;/a&gt;. Тикет на интерактивную документацию в Clion и вариант с скачиванием стандартных библиотек с документацией &lt;a href=&#34;https://stackoverflow.com/a/50174559/6793472&#34;&gt;https://stackoverflow.com/a/50174559/6793472&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Профилирование&lt;/strong&gt;&lt;br /&gt;
-Java - visualVm&lt;/p&gt;
-
-&lt;p&gt;C++ - valgrind. На macos так и не удалось поставить &lt;a href=&#34;https://stackoverflow.com/questions/52732036/how-to-install-valgrind-on-macos-mojave10-14-with-homebrew&#34;&gt;https://stackoverflow.com/questions/52732036/how-to-install-valgrind-on-macos-mojave10-14-with-homebrew&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Итого&lt;/strong&gt;&lt;br /&gt;
-Как первый язык С++ я бы не рекомендовал. Считаю что писать код без жестких нефункциональных требование проще на Java.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;br /&gt;
-I think there is no proper desktop home assistant for mere mortals yet. All market solutions seem beta versions and are very vendor specific. Personally, I will wait till something proper appeared at market and use GA as it is now from a smartphone and a MacBook.&lt;/p&gt;
-
-&lt;p&gt;p.s I will appreciate any kind of constructive critics about the article or yours ideas about home assistances in practice.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://localhost:1313/img/inner_arduino_1.jpg&#34; alt=&#34;img&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
