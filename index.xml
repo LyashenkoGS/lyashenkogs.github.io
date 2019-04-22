@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Exploring the software world on Exploring the software world</title>
+    <title></title>
     <link>https://lyashenkogs.github.io/</link>
-    <description>Recent content in Exploring the software world on Exploring the software world</description>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Hryhorii Liashenko</copyright>
@@ -21,9 +21,15 @@
 
 &lt;p&gt;Девизом участия в GHC в этом году стало “Just for fun” по ряду причин:&lt;/p&gt;
 
-&lt;p&gt;Алгоритмы и структуры данных не являются моей основной специализацией
-Призовых мест без основательной подготовки тут не получить. Как выглядит человек с основательной подготовкой &lt;a href=&#34;https://www.youtube.com/watch?v=kMDSltQN0MY&#34;&gt;https://www.youtube.com/watch?v=kMDSltQN0MY&lt;/a&gt;
-Я простудился и вообще официально на больничном&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Алгоритмы и структуры данных не являются моей основной специализацией&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Призовых мест без основательной подготовки тут не получить. Как выглядит человек с основательной подготовкой &lt;a href=&#34;https://www.youtube.com/watch?v=kMDSltQN0MY&#34;&gt;https://www.youtube.com/watch?v=kMDSltQN0MY&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Я простудился и вообще официально на больничном&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;inner_googlehashcode1.png&#34;&gt;inner img 1&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Результаты&lt;/strong&gt;&lt;/p&gt;
 
@@ -46,10 +52,8 @@
 &lt;p&gt;&lt;strong&gt;Соревнования&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Прочитать и обсудить задание&lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;&lt;p&gt;Прочитать и обсудить задание&lt;/p&gt;&lt;/li&gt;
 
-&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Парсинг входных данных. Сделать из примера объекты и конвертировать в выходной формат &lt;a href=&#34;https://github.com/LyashenkoGS/googleHashCode2019/commit/32adf2adb427e51fe77692b7d9b5e67c60422442&#34;&gt;https://github.com/LyashenkoGS/googleHashCode2019/commit/32adf2adb427e51fe77692b7d9b5e67c60422442&lt;/a&gt; - 45 мин (с учетом прочитать и понять задание)&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Простейший брутфорс алгоритм &lt;a href=&#34;https://github.com/LyashenkoGS/googleHashCode2019/commit/04458d64632f6ce21f993d8b752cb01c7c81c316&#34;&gt;https://github.com/LyashenkoGS/googleHashCode2019/commit/04458d64632f6ce21f993d8b752cb01c7c81c316&lt;/a&gt; - 30 мин&lt;/p&gt;&lt;/li&gt;
@@ -57,7 +61,7 @@
 &lt;li&gt;&lt;p&gt;Подсчет очков(чтоб не отсылать каждый раз ответ на сервера гугла, ждать, сравнивать с прошлыми очками) &lt;a href=&#34;https://github.com/LyashenkoGS/googleHashCode2019/commit/93da1742d0eff1e7038f2b0560ade06bc741bb08&#34;&gt;https://github.com/LyashenkoGS/googleHashCode2019/commit/93da1742d0eff1e7038f2b0560ade06bc741bb08&lt;/a&gt; - 70 мин (тут потеряли много на суету и попытку делать параллельно)&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Оптимизировать алгоритм - не успели. Потрачено - 60 мин. Отлавливали баги в процессе реализации.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;Первые 4 пунктов плохо распараллеливаются между 2мя людьми. Поэтому писали по очереди в духе парного программирования. Иногда все таки делали параллельно и скидывали куски кода по Skype.&lt;/p&gt;
 

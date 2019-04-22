@@ -18,15 +18,15 @@
   <link rel="stylesheet" href="/css/hugo-academic.css">
   
 
-  <link rel="alternate" href="https://lyashenkogs.github.io/index.xml" type="application/rss+xml" title="Exploring the software world">
-  <link rel="feed" href="https://lyashenkogs.github.io/index.xml" type="application/rss+xml" title="Exploring the software world">
+  <link rel="alternate" href="https://lyashenkogs.github.io/index.xml" type="application/rss+xml" title="">
+  <link rel="feed" href="https://lyashenkogs.github.io/index.xml" type="application/rss+xml" title="">
 
   <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
   <link rel="canonical" href="https://lyashenkogs.github.io/post/2019-03-01-googlehashcode2019/">
 
   
 
-  <title>Google hash code 2019 - Just for fun | Exploring the software world</title>
+  <title>Google hash code 2019 - Just for fun | </title>
 
 </head>
 <body id="top">
@@ -43,7 +43,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="/">Exploring the software world</a>
+      <a class="navbar-brand" href="/"></a>
     </div>
 
     
@@ -140,9 +140,15 @@
 
 <p>Девизом участия в GHC в этом году стало “Just for fun” по ряду причин:</p>
 
-<p>Алгоритмы и структуры данных не являются моей основной специализацией
-Призовых мест без основательной подготовки тут не получить. Как выглядит человек с основательной подготовкой <a href="https://www.youtube.com/watch?v=kMDSltQN0MY">https://www.youtube.com/watch?v=kMDSltQN0MY</a>
-Я простудился и вообще официально на больничном</p>
+<ul>
+<li><p>Алгоритмы и структуры данных не являются моей основной специализацией</p></li>
+
+<li><p>Призовых мест без основательной подготовки тут не получить. Как выглядит человек с основательной подготовкой <a href="https://www.youtube.com/watch?v=kMDSltQN0MY">https://www.youtube.com/watch?v=kMDSltQN0MY</a></p></li>
+
+<li><p>Я простудился и вообще официально на больничном</p></li>
+</ul>
+
+<p><a href="inner_googlehashcode1.png">inner img 1</a></p>
 
 <p><strong>Результаты</strong></p>
 
@@ -165,10 +171,8 @@
 <p><strong>Соревнования</strong></p>
 
 <ol>
-<li>Прочитать и обсудить задание</li>
-</ol>
+<li><p>Прочитать и обсудить задание</p></li>
 
-<ul>
 <li><p>Парсинг входных данных. Сделать из примера объекты и конвертировать в выходной формат <a href="https://github.com/LyashenkoGS/googleHashCode2019/commit/32adf2adb427e51fe77692b7d9b5e67c60422442">https://github.com/LyashenkoGS/googleHashCode2019/commit/32adf2adb427e51fe77692b7d9b5e67c60422442</a> - 45 мин (с учетом прочитать и понять задание)</p></li>
 
 <li><p>Простейший брутфорс алгоритм <a href="https://github.com/LyashenkoGS/googleHashCode2019/commit/04458d64632f6ce21f993d8b752cb01c7c81c316">https://github.com/LyashenkoGS/googleHashCode2019/commit/04458d64632f6ce21f993d8b752cb01c7c81c316</a> - 30 мин</p></li>
@@ -176,7 +180,7 @@
 <li><p>Подсчет очков(чтоб не отсылать каждый раз ответ на сервера гугла, ждать, сравнивать с прошлыми очками) <a href="https://github.com/LyashenkoGS/googleHashCode2019/commit/93da1742d0eff1e7038f2b0560ade06bc741bb08">https://github.com/LyashenkoGS/googleHashCode2019/commit/93da1742d0eff1e7038f2b0560ade06bc741bb08</a> - 70 мин (тут потеряли много на суету и попытку делать параллельно)</p></li>
 
 <li><p>Оптимизировать алгоритм - не успели. Потрачено - 60 мин. Отлавливали баги в процессе реализации.</p></li>
-</ul>
+</ol>
 
 <p>Первые 4 пунктов плохо распараллеливаются между 2мя людьми. Поэтому писали по очереди в духе парного программирования. Иногда все таки делали параллельно и скидывали куски кода по Skype.</p>
 
@@ -217,7 +221,7 @@
             return;
         }
         var d = document, s = d.createElement('script'); s.async = true;
-        s.src = '//' + "hryhoriiliashenko" + '.disqus.com/embed.js';
+        s.src = '//' + "lyashenkogs-github-io" + '.disqus.com/embed.js';
         s.setAttribute('data-timestamp', +new Date());
         (d.head || d.body).appendChild(s);
     })();

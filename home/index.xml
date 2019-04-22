@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Exploring the software world</title>
+    <title>Homes on </title>
     <link>https://lyashenkogs.github.io/home/</link>
-    <description>Recent content in Homes on Exploring the software world</description>
+    <description>Recent content in Homes on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Hryhorii Liashenko</copyright>
@@ -18,9 +18,9 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://lyashenkogs.github.io/home/about/</guid>
-      <description>Who is Hryhorii Liashenko? A Java Developer with open source and commercial experience, mostly Spring framework based web applications. Interested in distributed enterprise applications, cloud computing, security.
-My expertise areas:  Spring framework based web applications. Full development lifecycle. REST API design, documentation, testing. TDD, CI, CD using Jenkins. Performance testing (Jmeter). Devops. Development, monitoring, deployment containerized applications in a Kubernetes cluster.  CV: here.
- Reviews in facebook. My social education project.</description>
+      <description>A Software engineer with mostly Java background. Last time, building SaaS in cloud environments.
+My expertise areas:  Spring framework based web applications. Full development lifecycle. REST API design, documentation, testing. TDD, CI, CD using Jenkins. Performance testing (Jmeter). Devops. Development, monitoring, deployment containerized applications in a Kubernetes cluster.  You can find my CV here: CV.
+ Reviews in facebook. My social education project. Peer Lab #Java. Livecoding.  Services:</description>
     </item>
     
     <item>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Exploring the software world</title>
+    <title>Posts on </title>
     <link>https://lyashenkogs.github.io/post/</link>
-    <description>Recent content in Posts on Exploring the software world</description>
+    <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Hryhorii Liashenko</copyright>
@@ -20,7 +20,9 @@
       <guid>https://lyashenkogs.github.io/post/2019-03-01-googlehashcode2019/</guid>
       <description>Пост рассчитан на новичков и программистов с промышленным опытом но без опыта участия в алгоритмических соревнованиях и описывает опыт участия в Google hash code 2019.
 Девизом участия в GHC в этом году стало “Just for fun” по ряду причин:
-Алгоритмы и структуры данных не являются моей основной специализацией Призовых мест без основательной подготовки тут не получить. Как выглядит человек с основательной подготовкой https://www.youtube.com/watch?v=kMDSltQN0MY Я простудился и вообще официально на больничном</description>
+ Алгоритмы и структуры данных не являются моей основной специализацией
+ Призовых мест без основательной подготовки тут не получить. Как выглядит человек с основательной подготовкой https://www.youtube.com/watch?v=kMDSltQN0MY
+ Я простудился и вообще официально на больничном</description>
     </item>
     
     <item>
