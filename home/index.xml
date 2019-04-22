@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on </title>
+    <link>https://lyashenkogs.github.io/home/</link>
+    <description>Recent content in Homes on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Hryhorii Liashenko</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://lyashenkogs.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://lyashenkogs.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://lyashenkogs.github.io/home/about/</guid>
+      <description>A Software engineer with mostly Java background. Last time, building SaaS in cloud environments. You can find my CV here
+Expertise areas:  Spring framework based web applications. Full development lifecycle. REST API design, documentation, testing. TDD, CI, CD using Jenkins. Performance testing (Jmeter). DevOps. Development, monitoring, deployment containerized applications in a Kubernetes cluster.  Services  Consulting. You want to create a project or faced some technical problems with an existing one.</description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://lyashenkogs.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://lyashenkogs.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://lyashenkogs.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://lyashenkogs.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
