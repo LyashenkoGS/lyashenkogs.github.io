@@ -50,15 +50,17 @@ A Java Developer with open source and commercial experience, mostly Spring frame
 * Performance testing (Jmeter).
 * Devops. Development, monitoring, deployment containerized applications in a Kubernetes cluster.
 
-
 CV: [here](https://docs.google.com/document/d/1hqxy9tdmyYxsufKG0nBQHqVUERCgVsHXHEKvvb8Y0nA/edit?usp=sharing).
-
-
-
-
 
 - [Reviews in facebook](https://www.facebook.com/KyivJavaCourses/).
 - [My social education project. Peer Lab #Java](https://www.facebook.com/groups/PeerLabJava/).
 - [Livecoding](https://www.youtube.com/playlist?list=PLMd4DH1AF3ayDGJxFweQnbC3ajhqIiIXH).
+
+Services:
+
+- Consulting. You want to create a project or faced some technical problems with an existing one. 
+- Mentorship. One to one session over Skype. Help to prepare for an interview, whiteboard session, etc..
+- Conducting interviews.
+
 
 Don’t hesitate to contact me if you have any questions.

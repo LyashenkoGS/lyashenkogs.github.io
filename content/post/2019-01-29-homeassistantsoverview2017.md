@@ -1,8 +1,11 @@
----
-layout: post
-title: Home assistances overview 2017
----
-![Home assistances overview 2017](https://media.licdn.com/dms/image/C5612AQFPOpodiIcXfg/article-cover_image-shrink_720_1280/0?e=1561593600&v=beta&t=DGa35pyCCYPG1Rn9vqhTrPG1VYU-1jQUydti4Dc3Hwg)
+
++++
+date = "2017-07-02T12:00:00"
+draft = false
+image = "homeassistantsoverview.jpeg"
+title = "Home assistances overview 2017"
+math = true
++++
 
 
 I found a funny article in Twitter [https://thebolditalic.com/you-are-now-fully-optimized-716f4](https://thebolditalic.com/you-are-now-fully-optimized-716f4 "https://thebolditalic.com/you-are-now-fully-optimized-716f4")[…](https://thebolditalic.com/you-are-now-fully-optimized-716f482b17f5?fbclid=IwAR0CUrLYt_9wErlJerN5Qa1dBSy_-qb_bpi6-a37t2VrXknfxNKsSEO9SnQ) about IOT, Software engineers life and automation. Btw, see @lyashenkogs. So I was interested how it’s going with home assistances now.
