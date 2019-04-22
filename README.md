@@ -3,4 +3,10 @@
 Personal blog
 
 ### Build locally
+
+`hugo`
+
+## Start local server
+
 `hugo server -D`
+
