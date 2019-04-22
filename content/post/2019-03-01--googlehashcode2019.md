@@ -20,7 +20,7 @@ math = true
 - Я простудился и вообще официально на больничном
 
 
-[inner img 1](inner_googlehashcode1.png)
+[inner img 1](/img/inner_googlehashcode1.png)
 
 **Результаты**
 
